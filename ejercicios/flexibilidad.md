@@ -14,3 +14,8 @@ El entrenamiento de flexibilidad consiste en estiramientos que mejoran el rango 
    - Estiramientos de piernas (como el estiramiento de isquiotibiales o cuádriceps).
    - Estiramientos de espalda y hombros (como la postura del niño en yoga).
 3. **Enfriamiento**: Mantén estiramientos suaves durante 20-30 segundos por músculo.
+
+## Consejos
+- Evita los estiramientos dolorosos, busca una sensación de "tirón" suave.
+- No rebotes durante los estiramientos, ya que puede causar lesiones.
+- Haz estiramientos al final de tu entrenamiento para mejorar la flexibilidad sin riesgo.
