@@ -17,3 +17,8 @@ Los ejercicios de fuerza, también conocidos como entrenamiento de resistencia, 
    - Flexiones o dominadas.
    - Levantamiento de pesas: Si tienes experiencia, usa pesos progresivos.
 3. Termina con un enfriamiento, haciendo estiramientos estáticos enfocados en los músculos trabajados.
+
+## Consejos
+- Asegúrate de mantener una técnica adecuada para evitar lesiones.
+- Descansa entre 30 a 90 segundos entre series.
+- Si eres principiante, comienza con pesos ligeros y aumenta gradualmente.
