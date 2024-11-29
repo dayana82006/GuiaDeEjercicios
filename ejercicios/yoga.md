@@ -15,3 +15,8 @@ El yoga combina posturas físicas (asanas), respiración controlada y meditació
    - Guerrero I y II (Virabhadrasana).
    - Cobra (Bhujangasana).
 3. Enfriamiento: Finaliza con la postura de descanso Savasana y respiraciones profundas.
+
+## Consejos
+- Enfócate en la alineación de cada postura.
+- Mantén una respiración profunda y constante.
+- No te apresures, la práctica de yoga es más efectiva cuando se realiza con calma y concentración.
