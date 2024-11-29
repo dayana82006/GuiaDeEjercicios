@@ -7,3 +7,11 @@ El yoga combina posturas físicas (asanas), respiración controlada y meditació
 - Mejora la flexibilidad y el equilibrio.
 - Reduce el estrés y la ansiedad: La práctica de la respiración profunda y la meditación ayuda a calmar la mente.
 - Fortalece el core y mejora la postura.
+
+## Instrucciones
+1. Calentamiento: Comienza con respiraciones profundas y movimientos suaves para soltar tensiones.
+2. Ejercicio principal: Realiza una serie de posturas, como:
+   - Perro hacia abajo (Adho Mukha Svanasana).
+   - Guerrero I y II (Virabhadrasana).
+   - Cobra (Bhujangasana).
+3. Enfriamiento: Finaliza con la postura de descanso Savasana y respiraciones profundas.
