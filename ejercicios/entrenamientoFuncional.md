@@ -17,3 +17,7 @@ El entrenamiento funcional se basa en movimientos que imitan actividades diarias
    - Lunges (zancadas).
 3. **Enfriamiento**: Estiramientos de todo el cuerpo, con énfasis en las caderas, piernas y espalda baja.
 
+## Consejos
+- Concéntrate en la **calidad de cada movimiento**.
+- Usa un equipo de entrenamiento como **kettlebells** o **bandas de resistencia** para añadir variedad.
+- Mantén una **postura adecuada** durante todo el entrenamiento para evitar lesiones.
