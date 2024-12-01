@@ -3,6 +3,11 @@
 ## Descripción
 El Pilates se centra en fortalecer el **core** (zona abdominal, lumbar y caderas) y mejorar la postura mediante movimientos controlados.
 
+## Beneficios
+- Fortalece el core: Especialmente efectivo para trabajar la zona abdominal y la espalda baja.
+- Mejora la postura y el equilibrio.
+- Aumenta la flexibilidad: Ayuda a estirar los músculos y a mejorar la alineación.
+
 ## Instrucciones
 
 1. Calentamiento
