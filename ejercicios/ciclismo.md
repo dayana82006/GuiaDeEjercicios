@@ -18,3 +18,8 @@ Pedalea con una intensidad moderada durante 30-60 minutos, alternando entre inte
 
 3. Enfriamiento
 Baja la intensidad y pedalea suavemente durante 5-10 minu
+
+## Consejos
+- Asegúrate de que el asiento esté a la altura correcta para evitar lesiones en las rodillas.
+- Mantén una postura erguida y evita tensar los hombros.
+- Si entrenas al aire libre, utiliza protección solar y casco.
