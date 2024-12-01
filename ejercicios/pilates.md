@@ -17,3 +17,8 @@ Realiza ejercicios como:
 
 3. Enfriamiento
 - Finaliza con estiramientos suaves para relajar todo el cuerpo.
+
+## Consejos
+- Enfócate en la precisión y el control del movimiento.
+- Realiza los ejercicios lentamente para maximizar los beneficios.
+- Si eres principiante, comienza con ejercicios básicos y aumenta la dificultad progresivamente.
