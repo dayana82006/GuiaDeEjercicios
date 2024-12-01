@@ -9,3 +9,8 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina movim
 - Desarrolla habilidades funcionales: Los ejercicios se basan en movimientos cotidianos como empujar, tirar o levantar.
 - Promueve la pérdida de grasa: Su alta intensidad quema calorías incluso después del entrenamiento.
 
+## Consejos
+- Domina la técnica antes de aumentar el peso o la intensidad.
+- Escucha a tu cuerpo: Modifica los ejercicios si eres principiante.
+- Mantén una hidratación adecuada antes y después del entrenamiento.
+- Trabaja con un entrenador certificado para garantizar la seguridad y eficacia de los ejercicios.
