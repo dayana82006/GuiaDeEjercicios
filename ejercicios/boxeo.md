@@ -21,3 +21,8 @@ Realiza ejercicios de movilidad articular, saltos de cuerda y estiramientos din�
 3. Enfriamiento
 Finaliza con estiramientos estáticos y ejercicios de respiración para relajar los músculos durante 5-10 minutos.
 
+## Consejos
+- Mantén una postura correcta: Los pies deben estar bien alineados y el core activo.
+- Usa vendas y guantes para proteger tus manos y muñecas.
+- Si eres principiante, aprende la técnica correcta antes de aumentar la intensidad.
+- Hidrátate bien antes, durante y después del entrenamiento.
