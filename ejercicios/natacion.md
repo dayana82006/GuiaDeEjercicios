@@ -18,3 +18,14 @@ Nada de forma continua durante 30-45 minutos, alternando entre diferentes estilo
 3. Enfriamiento
 Nada a un ritmo suave durante 5-10 minutos.
 
+## Consejos
+- Mantén la respiración fluida y controlada.
+- Si eres principiante, comienza con sesiones cortas y aumenta progresivamente el tiempo de natación.
+- Utiliza un gorro de baño para reducir la resistencia del agua y proteger tu cabello.
+
+
+
+
+
+
+
